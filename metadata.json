@@ -1,0 +1,6 @@
+{
+  "name": "Hẹn giờ mở Link",
+  "description": "Ứng dụng hẹn giờ tự động mở các liên kết web (URL) được chỉ định theo lịch biểu lặp lại linh hoạt với giao diện Frosted Glass tuyệt đẹp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
